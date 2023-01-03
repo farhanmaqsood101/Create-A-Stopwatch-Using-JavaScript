@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital@1&display=swap');
 body{
     background: #edeaff;
-
 }
 .stopwatch{
     width: 90%;
@@ -32,6 +31,4 @@ body{
 }
 .buttons img:nth-child(2){
     width: 80px;
-    
-
 }
